@@ -1,0 +1,20 @@
+.kayda {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+.search-box {
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    background-color: rgb(239, 231, 231);
+    width: 40vw;
+    height: 60px;
+    line-height: 50px;
+    border-radius: 5px;
+    margin: auto;
+    position: relative;
+    bottom: 110px;
+}
